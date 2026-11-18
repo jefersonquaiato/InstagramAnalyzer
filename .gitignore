@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# Build
+publish/
+*.user
+*.suo
+
+# Dados pessoais do Instagram
+*.zip
+*.csv
+*.json
+*.html
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
